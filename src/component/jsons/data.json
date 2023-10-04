@@ -1,0 +1,578 @@
+[
+    {
+        "name":"indulgence",
+        "img":"https://www.mandovi.in/public/uploads/cars/16943152361499035789.jpg",
+        "year":2022,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Dongfeng Fengshen S30",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dongfeng_Fengshen_S30_China_2012-05-27.jpg/280px-Dongfeng_Fengshen_S30_China_2012-05-27.jpg",
+        "year":2010,
+        "set":4,
+        "eng_oil":"Hybrid",
+        "milase": 4,
+        "type":"Automatic"
+    },
+    {
+        "name":"Bentley Mulsanne",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bentley_Mulsanne_%282009%29_IMG_4112.jpg/280px-Bentley_Mulsanne_%282009%29_IMG_4112.jpg",
+        "year":2022,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Alfa Romeo Giulietta (940)",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg/280px-2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg",
+        "year":2011,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Alpina B3 and D3 (E90/E91/E92/E93)",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BMW_Alpina_B3_BiTurbo_Cabrio.jpg/280px-BMW_Alpina_B3_BiTurbo_Cabrio.jpg",
+        "year":2007,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Alpina B7",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2011-0823-AlpinaB7.jpg/280px-2011-0823-AlpinaB7.jpg",
+        "year":2009,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 8,
+        "type":"Automatic"
+    },
+    {
+        "name":"Audi A1",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg/280px-2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg",
+        "year":"2010–present",
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Audi A7",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg/280px-2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg",
+        "year":2021,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"BAW Yusheng",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BAW_Yusheng_007_01_China_2014-04-16.jpg/280px-BAW_Yusheng_007_01_China_2014-04-16.jpg",
+        "year":2010,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 5,
+        "type":"Automatic"
+    },
+    {
+        "name":"Alfa Romeo Giulietta (940)",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg/280px-2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg",
+        "year":2011,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"BMW 5 ",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BMW_550i_%28F10%29_%E2%80%93_Frontansicht_%282%29%2C_17._Juli_2011%2C_Mettmann.jpg/280px-BMW_550i_%28F10%29_%E2%80%93_Frontansicht_%282%29%2C_17._Juli_2011%2C_Mettmann.jpg",
+        "year":2010,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"BYD L3",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2010_BYD_L3.jpg/280px-2010_BYD_L3.jpg",
+        "year":2015,
+        "set":4,
+        "eng_oil":"Hybrid",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"BYD M6",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BYD_M6_China_2012-04-28.JPG/280px-BYD_M6_China_2012-04-28.JPG",
+        "year":2017,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Changan CX20",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chang%27an_CX20_facelift_China_2014-04-16.jpg/280px-Chang%27an_CX20_facelift_China_2014-04-16.jpg",
+        "year":2016,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chana Taurustar",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2010_Chana_Taurustar_%28front%29.jpg/280px-2010_Chana_Taurustar_%28front%29.jpg",
+        "year":2015,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Changan CX30",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chang%27an_CX30_sedan_2_--_Auto_Chongqing_--_2012-06-07.jpg/280px-Chang%27an_CX30_sedan_2_--_Auto_Chongqing_--_2012-06-07.jpg",
+        "year":2012,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Changhe Beidouxing",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Suzuki_Beidouxing_01_China_2018-03-20.jpg/280px-Suzuki_Beidouxing_01_China_2018-03-20.jpg",
+        "year":	2004,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 4,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chevrolet Volt",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2011_Chevrolet_Volt_--_NHTSA_1.jpg/280px-2011_Chevrolet_Volt_--_NHTSA_1.jpg",
+        "year":2019,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chevron GR8",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chevron_GR8_Mattsson_Johansson_Swedish_GT_Falkenberg_2011.jpg/220px-Chevron_GR8_Mattsson_Johansson_Swedish_GT_Falkenberg_2011.jpg",
+        "year":2013,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chrysler 200",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2015_Chrysler_200_Limited.jpg/280px-2015_Chrysler_200_Limited.jpg",
+        "year":2017,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 7,
+        "type":"Automatic"
+    },
+    {
+        "name":"Citroën Metropolis",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-03-04_Autosalon_Genf_1307.JPG/280px-2011-03-04_Autosalon_Genf_1307.JPG",
+        "year":2010,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Dacia Duster",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2023_Dacia_Duster_1X7A6294.jpg/280px-2023_Dacia_Duster_1X7A6294.jpg",
+        "year":	2010,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Emgrand EC8",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Emgrand_EC8_Auto_China_2014-04-23.jpg/280px-Emgrand_EC8_Auto_China_2014-04-23.jpg",
+        "year":2015,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Englon SC5",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2013_Geely-Shanghai_Englon_SC5-RV_1.5L%2C_front_8.16.18.jpg/280px-2013_Geely-Shanghai_Englon_SC5-RV_1.5L%2C_front_8.16.18.jpg",
+        "year":2015,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"indulgence",
+        "img":"https://www.mandovi.in/public/uploads/cars/16943152361499035789.jpg",
+        "year":2022,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Dongfeng Fengshen S30",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dongfeng_Fengshen_S30_China_2012-05-27.jpg/280px-Dongfeng_Fengshen_S30_China_2012-05-27.jpg",
+        "year":2010,
+        "set":4,
+        "eng_oil":"Hybrid",
+        "milase": 4,
+        "type":"Automatic"
+    },
+    {
+        "name":"Bentley Mulsanne",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bentley_Mulsanne_%282009%29_IMG_4112.jpg/280px-Bentley_Mulsanne_%282009%29_IMG_4112.jpg",
+        "year":2022,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Alfa Romeo Giulietta (940)",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg/280px-2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg",
+        "year":2011,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Alpina B3 and D3 (E90/E91/E92/E93)",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BMW_Alpina_B3_BiTurbo_Cabrio.jpg/280px-BMW_Alpina_B3_BiTurbo_Cabrio.jpg",
+        "year":2007,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Alpina B7",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2011-0823-AlpinaB7.jpg/280px-2011-0823-AlpinaB7.jpg",
+        "year":2009,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 8,
+        "type":"Automatic"
+    },
+    {
+        "name":"Audi A1",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg/280px-2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg",
+        "year":"2010–present",
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Audi A7",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg/280px-2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg",
+        "year":2021,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"BAW Yusheng",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BAW_Yusheng_007_01_China_2014-04-16.jpg/280px-BAW_Yusheng_007_01_China_2014-04-16.jpg",
+        "year":2010,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 5,
+        "type":"Automatic"
+    },
+    {
+        "name":"Alfa Romeo Giulietta (940)",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg/280px-2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg",
+        "year":2011,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"BYD L3",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2010_BYD_L3.jpg/280px-2010_BYD_L3.jpg",
+        "year":2015,
+        "set":4,
+        "eng_oil":"Hybrid",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"BYD M6",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BYD_M6_China_2012-04-28.JPG/280px-BYD_M6_China_2012-04-28.JPG",
+        "year":2017,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Changan CX20",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chang%27an_CX20_facelift_China_2014-04-16.jpg/280px-Chang%27an_CX20_facelift_China_2014-04-16.jpg",
+        "year":2016,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chana Taurustar",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2010_Chana_Taurustar_%28front%29.jpg/280px-2010_Chana_Taurustar_%28front%29.jpg",
+        "year":2015,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Changan CX30",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chang%27an_CX30_sedan_2_--_Auto_Chongqing_--_2012-06-07.jpg/280px-Chang%27an_CX30_sedan_2_--_Auto_Chongqing_--_2012-06-07.jpg",
+        "year":2012,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Changhe Beidouxing",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Suzuki_Beidouxing_01_China_2018-03-20.jpg/280px-Suzuki_Beidouxing_01_China_2018-03-20.jpg",
+        "year":	2004,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 4,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chevrolet Volt",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2011_Chevrolet_Volt_--_NHTSA_1.jpg/280px-2011_Chevrolet_Volt_--_NHTSA_1.jpg",
+        "year":2019,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chevron GR8",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chevron_GR8_Mattsson_Johansson_Swedish_GT_Falkenberg_2011.jpg/220px-Chevron_GR8_Mattsson_Johansson_Swedish_GT_Falkenberg_2011.jpg",
+        "year":2013,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chrysler 200",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2015_Chrysler_200_Limited.jpg/280px-2015_Chrysler_200_Limited.jpg",
+        "year":2017,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 7,
+        "type":"Automatic"
+    },
+    {
+        "name":"Citroën Metropolis",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-03-04_Autosalon_Genf_1307.JPG/280px-2011-03-04_Autosalon_Genf_1307.JPG",
+        "year":2010,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Dacia Duster",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2023_Dacia_Duster_1X7A6294.jpg/280px-2023_Dacia_Duster_1X7A6294.jpg",
+        "year":	2010,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Alpina B7",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2011-0823-AlpinaB7.jpg/280px-2011-0823-AlpinaB7.jpg",
+        "year":2009,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 8,
+        "type":"Automatic"
+    },
+    {
+        "name":"Audi A1",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg/280px-2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg",
+        "year":"2010–present",
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Audi A7",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg/280px-2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg",
+        "year":2021,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"BAW Yusheng",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/BAW_Yusheng_007_01_China_2014-04-16.jpg/280px-BAW_Yusheng_007_01_China_2014-04-16.jpg",
+        "year":2010,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 5,
+        "type":"Automatic"
+    },
+    {
+        "name":"Alfa Romeo Giulietta (940)",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg/280px-2011_Alfa_Romeo_Giulietta_Veloce_JTDm-2_2.0_Front.jpg",
+        "year":2011,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"BYD L3",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2010_BYD_L3.jpg/280px-2010_BYD_L3.jpg",
+        "year":2015,
+        "set":4,
+        "eng_oil":"Hybrid",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"BYD M6",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/BYD_M6_China_2012-04-28.JPG/280px-BYD_M6_China_2012-04-28.JPG",
+        "year":2017,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Changan CX20",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chang%27an_CX20_facelift_China_2014-04-16.jpg/280px-Chang%27an_CX20_facelift_China_2014-04-16.jpg",
+        "year":2016,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chana Taurustar",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2010_Chana_Taurustar_%28front%29.jpg/280px-2010_Chana_Taurustar_%28front%29.jpg",
+        "year":2015,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Changan CX30",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Chang%27an_CX30_sedan_2_--_Auto_Chongqing_--_2012-06-07.jpg/280px-Chang%27an_CX30_sedan_2_--_Auto_Chongqing_--_2012-06-07.jpg",
+        "year":2012,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Changhe Beidouxing",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Suzuki_Beidouxing_01_China_2018-03-20.jpg/280px-Suzuki_Beidouxing_01_China_2018-03-20.jpg",
+        "year":	2004,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 4,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chevrolet Volt",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2011_Chevrolet_Volt_--_NHTSA_1.jpg/280px-2011_Chevrolet_Volt_--_NHTSA_1.jpg",
+        "year":2019,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chevron GR8",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Chevron_GR8_Mattsson_Johansson_Swedish_GT_Falkenberg_2011.jpg/220px-Chevron_GR8_Mattsson_Johansson_Swedish_GT_Falkenberg_2011.jpg",
+        "year":2013,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Chrysler 200",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2015_Chrysler_200_Limited.jpg/280px-2015_Chrysler_200_Limited.jpg",
+        "year":2017,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 7,
+        "type":"Automatic"
+    },
+    {
+        "name":"Citroën Metropolis",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/2011-03-04_Autosalon_Genf_1307.JPG/280px-2011-03-04_Autosalon_Genf_1307.JPG",
+        "year":2010,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Dacia Duster",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/2023_Dacia_Duster_1X7A6294.jpg/280px-2023_Dacia_Duster_1X7A6294.jpg",
+        "year":	2010,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Alpina B7",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2011-0823-AlpinaB7.jpg/280px-2011-0823-AlpinaB7.jpg",
+        "year":2009,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 8,
+        "type":"Automatic"
+    },
+    {
+        "name":"Audi A1",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg/280px-2018_Audi_A1_S_Line_30_TFSi_S-A_1.0.jpg",
+        "year":"2010–present",
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    },
+    {
+        "name":"Audi A7",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg/280px-2018_Audi_A7_S_Line_40_TDi_S-A_2.0.jpg",
+        "year":2021,
+        "set":4,
+        "eng_oil":"gesolion",
+        "milase": 6,
+        "type":"Automatic"
+    }
+]
