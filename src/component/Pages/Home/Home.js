@@ -47,7 +47,7 @@ const Home = () => {
         <input
           type="text"
           className="w-full p-2 border rounded shadow"
-          placeholder="Search for a product"
+          placeholder="Search a car for rent"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
